@@ -1,0 +1,11 @@
+/Users/erictaylor/workspace/csharp/exercises/English-Idioms/bin/Debug/netcoreapp3.0/English-Idioms
+/Users/erictaylor/workspace/csharp/exercises/English-Idioms/bin/Debug/netcoreapp3.0/English-Idioms.deps.json
+/Users/erictaylor/workspace/csharp/exercises/English-Idioms/bin/Debug/netcoreapp3.0/English-Idioms.runtimeconfig.json
+/Users/erictaylor/workspace/csharp/exercises/English-Idioms/bin/Debug/netcoreapp3.0/English-Idioms.runtimeconfig.dev.json
+/Users/erictaylor/workspace/csharp/exercises/English-Idioms/bin/Debug/netcoreapp3.0/English-Idioms.dll
+/Users/erictaylor/workspace/csharp/exercises/English-Idioms/bin/Debug/netcoreapp3.0/English-Idioms.pdb
+/Users/erictaylor/workspace/csharp/exercises/English-Idioms/obj/Debug/netcoreapp3.0/English-Idioms.csprojAssemblyReference.cache
+/Users/erictaylor/workspace/csharp/exercises/English-Idioms/obj/Debug/netcoreapp3.0/English-Idioms.AssemblyInfoInputs.cache
+/Users/erictaylor/workspace/csharp/exercises/English-Idioms/obj/Debug/netcoreapp3.0/English-Idioms.AssemblyInfo.cs
+/Users/erictaylor/workspace/csharp/exercises/English-Idioms/obj/Debug/netcoreapp3.0/English-Idioms.dll
+/Users/erictaylor/workspace/csharp/exercises/English-Idioms/obj/Debug/netcoreapp3.0/English-Idioms.pdb
